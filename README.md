@@ -46,7 +46,7 @@ But after a suggetion from the slack community I have changed the way I implemen
 
 ```css
   :root{
-    --10px: calc(10rem/16);
+    --10px: 0.625rem;
   }
 
   p{
@@ -57,7 +57,7 @@ But after a suggetion from the slack community I have changed the way I implemen
 
 ### Useful resources
 
-- (https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) - This article helped with how to use rem in project, going forward I will be continuing with the guide that is written here.
+- (https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) - This article helped me with how to use rem in project, going forward I will be continuing with the guide that is written here.
 
 
 
